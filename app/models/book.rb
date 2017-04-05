@@ -7,3 +7,5 @@ class Book < ApplicationRecord
     finished_on.present?
   end
 end
+
+#app/views/books/index - change
