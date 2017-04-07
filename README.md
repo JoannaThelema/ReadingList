@@ -18,13 +18,7 @@ Add your genres to db/seeds.rb and run:
 $ rails db:seed
 ```
 
-Finally, run the test suite to verify that everything is working correctly:
-
-```
-$ rails test
-```
-
-If the test suite passes, you'll be ready to run the app in a local server:
+Next, run the app in a local server:
 
 ```
 $ rails server
